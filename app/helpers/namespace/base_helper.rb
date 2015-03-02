@@ -1,0 +1,2 @@
+module Namespace::BaseHelper
+end
